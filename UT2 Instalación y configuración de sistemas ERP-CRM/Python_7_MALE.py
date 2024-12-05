@@ -1,6 +1,3 @@
-# ASGMT dicts
-
-# asigna valores iniciales
 words = 'aro|clara|patata|brillo'
 letter = 'a'
 palabras = words.split('|')
